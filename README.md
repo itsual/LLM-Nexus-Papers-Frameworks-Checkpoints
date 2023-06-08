@@ -1,5 +1,5 @@
 
-# Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# LLM Nexus: Papers, Frameworks, Checkpoints
 
 ![](resources/image8.gif)
 
